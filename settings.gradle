@@ -1,0 +1,3 @@
+rootProject.name = "VBMSdk"
+include ':app'
+include ':mylib'
